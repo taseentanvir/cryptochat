@@ -17,7 +17,7 @@ Encryption is an invaluable tool for journalists, activists, nation-states, busi
 This app is 100% open-source, feel free to utilize the code however you would like.
 
 - Live Preview - http://vue-crypto-chat.herokuapp.com/
-- Github Repository - https://github.com/taseentanvir/open-cryptochat
+- Github Repository - https://github.com/taseentanvir/encryptochat
 
 ```
 The MIT License (MIT)
